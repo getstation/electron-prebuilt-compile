@@ -1,5 +1,5 @@
 {
-  "name": "electron-prebuilt-compile",
+  "name": "@getstation/electron-prebuilt-compile",
   "version": "4.1.4",
   "description": "electron-prebuilt that automatically understands Babel + React + LESS",
   "bin": {
